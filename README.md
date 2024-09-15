@@ -1,2 +1,2 @@
-# custom-resolver
-custom resolver for gamesense 
+# custom-resolver for gamesense
+pasted from hysteria lua
